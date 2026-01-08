@@ -221,6 +221,22 @@ import math
 # my_screen.exitonclick()
 
 
+# s = "hello"
+# t = s 
+# s = s.upper()
+# print(t)
+
+# print({1,2,3} & {2,3,4}) // output = {2,3} print only same value from both 
+
+# a = "python"
+# b = "py" + "thon"
+# print(a is b) 
+# """ Why It Prints True
+# Python uses an optimization called string interning. 
+# When you create string literals (strings written directly in your code), 
+# Python tries to reuse the same memory location for identical strings."""
+
+
 
 
 
